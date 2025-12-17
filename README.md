@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Olá! Eu sou Guielihan
+# Guielihan
 ### 🚀 Desenvolvedor Full Stack | Bot Developer | Python Enthusiast
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=940&lines=Bem-vindo+ao+meu+perfil!+%F0%9F%91%8B;Desenvolvedor+Full+Stack+%F0%9F%92%BB;Especialista+em+Python+%F0%9F%90%8D;Criador+de+Bots+Telegram+%F0%9F%A4%96;Sempre+aprendendo+coisas+novas!+%F0%9F%93%9A" alt="Typing SVG" />
