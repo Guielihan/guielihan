@@ -177,48 +177,7 @@ print(me.work_status())
 
 <div align="center">
 
-### 💎 Repositórios Principais
-
 [![DinaBank Bot](https://github-readme-stats.vercel.app/api/pin/?username=Guielihan&repo=dinabank_bot&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=00ff41)](https://github.com/Guielihan/dinabank_bot)
-
-### 🌐 Projetos em Produção
-
-> 💡 **Adicione seus projetos deploy aqui:**
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-#### 🤖 DinaBank Bot
-[![Deploy](https://img.shields.io/badge/Status-Em_Produção-00ff41?style=for-the-badge)](https://github.com/Guielihan/dinabank_bot)
-[![PythonAnywhere](https://img.shields.io/badge/Host-PythonAnywhere-1D9FD7?style=flat-square&logo=python)]()
-
-**Stack:** Python, Telegram API, SQLite
-
-[📱 Ver no Telegram](https://t.me/seu_bot) • [💻 Código](https://github.com/Guielihan/dinabank_bot)
-
-</td>
-<td align="center" width="33%">
-
-#### 🌟 Próximo Projeto
-[![Deploy](https://img.shields.io/badge/Status-Em_Breve-yellow?style=for-the-badge)]()
-[![Hostinger](https://img.shields.io/badge/Host-Hostinger_VPS-673DE6?style=flat-square&logo=hostinger)]()
-
-**Stack:** Flask, JavaScript, MySQL
-
-🚧 *Em desenvolvimento...*
-
-</td>
-<td align="center" width="33%">
-
-#### ⚡ Adicione Mais
-[![Add](https://img.shields.io/badge/➕-Adicionar_Projeto-gray?style=for-the-badge)]()
-
-*Espaço reservado para seus próximos projetos incríveis!*
-
-</td>
-</tr>
-</table>
 
 </div>
 
