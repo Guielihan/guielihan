@@ -20,17 +20,55 @@ class Guilherme:
         self.languages = ["Python", "JavaScript", "HTML/CSS", "SQL"]
         self.current_focus = ["Telegram Bots", "Flask", "Automation"]
         self.hobbies = ["Coding", "Learning", "Gaming"]
-    
+        
+        # Disponibilidade Profissional
+        self.freelance_available = True
+        self.open_to_projects = ["Bots Telegram", "Web Apps", "Automation", "APIs"]
+        self.collaboration = "Sempre aberto a colaborações interessantes!"
+        
     def say_hi(self):
         print("Obrigado por visitar meu perfil! Vamos criar algo incrível juntos! 🚀")
+    
+    def work_status(self):
+        if self.freelance_available:
+            return "💼 Disponível para projetos freelance!"
+        return "🔨 Focado em projetos atuais"
 
 me = Guielihan()
 me.say_hi()
+print(me.work_status())
 ```
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## � Status Profissional
+
+<div align="center">
+
+### 🚀 Disponível para Freelance & Projetos!
+
+[![Hire Me](https://img.shields.io/badge/Status-Disponível_para_Projetos-00ff41?style=for-the-badge&logo=handshake&logoColor=white)](https://t.me/Guielihan)
+[![Freelance](https://img.shields.io/badge/Freelance-Aberto_a_Propostas-00ff41?style=for-the-badge&logo=freelancer&logoColor=white)](https://t.me/Guielihan)
+
+**Especializado em:** Bots Telegram • Web Apps • Automação • APIs REST
+
+</div>
+
+---
+
+## 📊 Nível de Habilidades (Atualizado Automaticamente)
+
+<div align="center">
+
+### 🎯 Baseado em Commits e Atividade dos Repositórios
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guielihan&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41&card_width=450&custom_title=Linguagens%20Mais%20Utilizadas" />
+
+</div>
+
+---
+
+## �🛠️ Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -50,17 +88,45 @@ me.say_hi()
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ⚙️ Tools
+### ⚙️ Tools & Deployment
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1D9FD7?style=for-the-badge&logo=python&logoColor=white)
+![Hostinger VPS](https://img.shields.io/badge/Hostinger_VPS-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
 
 </div>
 
 ---
 
-## 📊 Estatísticas do GitHub
+## � O Que Estou Fazendo Agora
+
+<div align="center">
+
+### 🎯 Projetos Ativos & Aprendizado Contínuo
+
+![Status](https://img.shields.io/badge/Status-Desenvolvendo_Ativamente-00ff41?style=for-the-badge)
+![Learning](https://img.shields.io/badge/Aprendendo-Novas_Tecnologias-00ff41?style=for-the-badge)
+
+#### 🚀 Em Desenvolvimento
+```
+🤖 Telegram Bots Avançados
+🌐 Aplicações Web com Flask
+⚡ Scripts de Automação
+🔧 Integrações de API
+```
+
+#### 📚 Estudando Atualmente
+[![Python Advanced](https://img.shields.io/badge/Python-Advanced_Features-3776AB?style=flat-square&logo=python&logoColor=white)]()
+[![Flask](https://img.shields.io/badge/Flask-Web_Development-000000?style=flat-square&logo=flask&logoColor=white)]()
+[![APIs](https://img.shields.io/badge/APIs-RESTful_Design-009688?style=flat-square&logo=fastapi&logoColor=white)]()
+[![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat-square&logo=docker&logoColor=white)]()
+
+</div>
+
+---
+
+## �📊 Estatísticas do GitHub
 
 <div align="center">
   
@@ -111,7 +177,48 @@ me.say_hi()
 
 <div align="center">
 
+### 💎 Repositórios Principais
+
 [![DinaBank Bot](https://github-readme-stats.vercel.app/api/pin/?username=Guielihan&repo=dinabank_bot&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=00ff41)](https://github.com/Guielihan/dinabank_bot)
+
+### 🌐 Projetos em Produção
+
+> 💡 **Adicione seus projetos deploy aqui:**
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+#### 🤖 DinaBank Bot
+[![Deploy](https://img.shields.io/badge/Status-Em_Produção-00ff41?style=for-the-badge)](https://github.com/Guielihan/dinabank_bot)
+[![PythonAnywhere](https://img.shields.io/badge/Host-PythonAnywhere-1D9FD7?style=flat-square&logo=python)]()
+
+**Stack:** Python, Telegram API, SQLite
+
+[📱 Ver no Telegram](https://t.me/seu_bot) • [💻 Código](https://github.com/Guielihan/dinabank_bot)
+
+</td>
+<td align="center" width="33%">
+
+#### 🌟 Próximo Projeto
+[![Deploy](https://img.shields.io/badge/Status-Em_Breve-yellow?style=for-the-badge)]()
+[![Hostinger](https://img.shields.io/badge/Host-Hostinger_VPS-673DE6?style=flat-square&logo=hostinger)]()
+
+**Stack:** Flask, JavaScript, MySQL
+
+🚧 *Em desenvolvimento...*
+
+</td>
+<td align="center" width="33%">
+
+#### ⚡ Adicione Mais
+[![Add](https://img.shields.io/badge/➕-Adicionar_Projeto-gray?style=for-the-badge)]()
+
+*Espaço reservado para seus próximos projetos incríveis!*
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -123,6 +230,10 @@ me.say_hi()
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Guielihan)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Guielihan)
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:guielihan@outlook.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:devguielihan@gmail.com)
+
+**📧 E-mails:** `guielihan@outlook.com` • `devguielihan@gmail.com`
 
 </div>
 
