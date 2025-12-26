@@ -41,27 +41,24 @@ print(me.work_status())
 
 ---
 
-## � Status Profissional
+
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" style="vertical-align:middle;"/> Status Profissional
 
 <div align="center">
 
-### 🚀 Disponível para Freelance & Projetos!
+<b>🚀 Disponível para Freelance & Projetos!</b>
 
 [![Hire Me](https://img.shields.io/badge/Status-Disponível_para_Projetos-00ff41?style=for-the-badge&logo=handshake&logoColor=white)](https://t.me/Guielihan)
 [![Freelance](https://img.shields.io/badge/Freelance-Aberto_a_Propostas-00ff41?style=for-the-badge&logo=freelancer&logoColor=white)](https://t.me/Guielihan)
 
-**Especializado em:** Bots Telegram • Web Apps • Automação • APIs REST
+<i>Especializado em:</i> Bots Telegram • Web Apps • Automação • APIs REST
 
 </div>
 
 ---
 
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guielihan&layout=compact&langs_count=10&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41&card_width=450&custom_title=Linguagens%20Mais%20Utilizadas" />
-
-</div>
 
 ---
 
@@ -123,12 +120,13 @@ print(me.work_status())
 
 ---
 
-## �📊 Estatísticas do GitHub
+
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="28" style="vertical-align:middle;"/> Estatísticas do GitHub
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guielihan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=00ff41"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guielihan&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Guielihan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=00ff41" alt="GitHub Stats" height="180em"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guielihan&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41" alt="Top Langs" height="180em"/>
 
 </div>
 
