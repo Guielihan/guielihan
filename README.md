@@ -5,33 +5,10 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=940&lines=Bem-vindo+ao+meu+perfil!+%F0%9F%91%8B;Desenvolvedor+Full+Stack+%F0%9F%92%BB;Especialista+em+Python+%F0%9F%90%8D;Criador+de+Bots+Telegram+%F0%9F%A4%96;Sempre+aprendendo+coisas+novas!+%F0%9F%93%9A" alt="Typing SVG" />
 
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guielihan&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41" alt="Top Langs" height="200em"/>
 </div>
-
----
-
-## 🎯 Sobre Mim
-
-```python
-class Guilherme:
-    def __init__(self):
-        self.username = "Guielihan"
-        self.role = "Full Stack Developer"
-        self.location = "Brasil 🇧🇷"
-        self.languages = ["Python", "JavaScript", "HTML/CSS", "SQL"]
-        self.current_focus = ["Telegram Bots", "Flask", "Automation"]
-        self.hobbies = ["Coding", "Learning", "Gaming"]
-        
-        # Disponibilidade Profissional
-        self.freelance_available = True
-        self.open_to_projects = ["Bots Telegram", "Web Apps", "Automation", "APIs"]
-        self.collaboration = "Sempre aberto a colaborações interessantes!"
-        
-    def say_hi(self):
-        print("Obrigado por visitar meu perfil! Vamos criar algo incrível juntos! 🚀")
-    
-    def work_status(self):
-        if self.freelance_available:
-            return "💼 Disponível para projetos freelance!"
         return "🔨 Focado em projetos atuais"
 
 me = Guielihan()
