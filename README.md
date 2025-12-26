@@ -170,11 +170,14 @@ print(me.work_status())
 
 ---
 
+
 ## 🚀 Projetos em Destaque
 
 <div align="center">
 
-[![DinaBank Bot](https://github-readme-stats.vercel.app/api/pin/?username=Guielihan&repo=dinabank_bot&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=00ff41)](https://github.com/Guielihan/dinabank_bot)
+<img src="./destaque.png" alt="DinaBank Bot" width="400"/>
+
+[Acesse o repositório DinaBank Bot](https://github.com/Guielihan/dinabank_bot)
 
 </div>
 
