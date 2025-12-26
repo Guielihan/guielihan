@@ -126,10 +126,22 @@ print(me.work_status())
 <div align="center">
 
 <!-- Os gráficos abaixo exibem apenas estatísticas dos repositórios públicos. Se não aparecerem, é porque o serviço externo está fora do ar ou bloqueado. -->
+
 <img src="https://github-readme-stats.vercel.app/api?username=Guielihan&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=00ff41" alt="GitHub Stats" height="180em"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guielihan&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41" alt="Top Langs" height="180em"/>
 
-
+<table width="100%"><tr>
+<td align="left" width="50%">
+<sub>
+<b>GitHub Readme Stats:</b> <a href="https://github.com/anuraghazra/github-readme-stats">Repositório</a> | <a href="https://github-readme-stats.vercel.app/">Site oficial</a>
+</sub>
+</td>
+<td align="right" width="50%">
+<sub>
+<b>GitHub Streak Stats:</b> <a href="https://github.com/DenverCoder1/github-readme-streak-stats">Repositório</a> | <a href="https://streak-stats.demolab.com/">Site oficial</a>
+</sub>
+</td>
+</tr></table>
 
 </div>
 
