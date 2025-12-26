@@ -125,8 +125,14 @@ print(me.work_status())
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Guielihan&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=00ff41" alt="GitHub Stats" height="180em"/>
+<!-- Os gráficos abaixo exibem apenas estatísticas dos repositórios públicos. Se não aparecerem, é porque o serviço externo está fora do ar ou bloqueado. -->
+<img src="https://github-readme-stats.vercel.app/api?username=Guielihan&show_icons=true&theme=radical&include_all_commits=true&count_private=false&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41&icon_color=00ff41" alt="GitHub Stats" height="180em"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guielihan&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41" alt="Top Langs" height="180em"/>
+
+<br>
+<b>⚠️ Os gráficos exibem apenas dados públicos.</b><br>
+<i>Se não aparecerem, o serviço externo pode estar fora do ar.<br>
+Repositórios privados nunca aparecem nestes gráficos.</i>
 
 </div>
 
