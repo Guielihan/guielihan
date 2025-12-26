@@ -100,8 +100,11 @@
 <!-- Os gráficos abaixo exibem apenas estatísticas dos repositórios públicos. Se não aparecerem, é porque o serviço externo está fora do ar ou bloqueado. -->
 
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guielihan&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41" alt="Top Langs" height="200em"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guielihan&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41" alt="Top Langs" height="180em"/>
+
 </div>
 
 </div>
