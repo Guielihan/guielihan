@@ -9,12 +9,7 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guielihan&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00ff41" alt="Top Langs" height="200em"/>
 </div>
-        return "🔨 Focado em projetos atuais"
 
-me = Guielihan()
-me.say_hi()
-print(me.work_status())
-```
 
 ---
 
@@ -79,13 +74,13 @@ print(me.work_status())
 ![Status](https://img.shields.io/badge/Status-Desenvolvendo_Ativamente-00ff41?style=for-the-badge)
 ![Learning](https://img.shields.io/badge/Aprendendo-Novas_Tecnologias-00ff41?style=for-the-badge)
 
+
 #### 🚀 Em Desenvolvimento
-```
-🤖 Telegram Bots Avançados
-🌐 Aplicações Web com Flask
-⚡ Scripts de Automação
+
+🤖 Telegram Bots Avançados  
+🌐 Aplicações Web com Flask  
+⚡ Scripts de Automação  
 🔧 Integrações de API
-```
 
 #### 📚 Estudando Atualmente
 [![Python Advanced](https://img.shields.io/badge/Python-Advanced_Features-3776AB?style=flat-square&logo=python&logoColor=white)]()
