@@ -17,9 +17,12 @@ Dinabank • DinastPlay • DinastCine • Dinabet • Dinasticker
 </p>
 
 <p align="center">
-<a href="https://t.me/Guielihan">
-  <img src="https://img.shields.io/badge/Contact-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
+  <a href="https://t.me/Guielihan" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/1297971679737413632" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
 </p>
 
 ---
