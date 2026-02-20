@@ -1,7 +1,28 @@
 <div align="center">
   
-# Guielihan
-### 🚀 Desenvolvedor Full Stack | Bot Developer | Python Enthusiast
+<h1 align="center">Guielihan</h1>
+
+<p align="center">
+Full-Stack Developer focused on Telegram Bots, APIs & Automation
+</p>
+
+<p align="center">
+I build MVPs and automation systems using Python, JavaScript and AI —
+from Telegram ecosystems to web applications deployed on VPS.
+</p>
+
+<p align="center">
+Creator of the Dinastia ecosystem:
+Dinabank • DinastPlay • DinastCine • Dinabet • Dinasticker
+</p>
+
+<p align="center">
+<a href="https://t.me/Guielihan">
+  <img src="https://img.shields.io/badge/Contact-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+</p>
+
+---
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=00FF41&center=true&vCenter=true&width=940&lines=Bem-vindo+ao+meu+perfil!+%F0%9F%91%8B;Desenvolvedor+Full+Stack+%F0%9F%92%BB;Especialista+em+Python+%F0%9F%90%8D;Criador+de+Bots+Telegram+%F0%9F%A4%96;Sempre+aprendendo+coisas+novas!+%F0%9F%93%9A" alt="Typing SVG" />
 
